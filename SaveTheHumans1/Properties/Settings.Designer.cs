@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SaveTheHumans1.Properties
+namespace SaveTheHumans.Properties
 {
 
 
